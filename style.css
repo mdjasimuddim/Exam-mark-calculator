@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 700px;
+    background-color: tomato;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 30px;
+}
+h3{
+    text-transform: capitalize;
+    font-size: 30px;
+    color:#fff;
+    margin-bottom:20px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    color: blueviolet;
+    font-size: 14px;
+    border-radius: 5px;
+    border:0;
+}
+button{
+    background-color: blueviolet;
+    text-transform: capitalize;
+    padding: 8px 20px;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+h5{
+    color: #fff;
+    font-size: 20px;
+}
